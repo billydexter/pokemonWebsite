@@ -1,0 +1,28 @@
+body 
+{
+	background-image: url(../images/background.jpg);
+	background-size: 150%;
+}
+@media only screen and (min-width: 1600px)
+{
+#onePokemon
+{
+	float: left;
+	padding-right: 10px;
+}
+#oneSearchBar
+{
+	float:left;
+	padding-right: 10px;
+}
+}
+#yourPokemon
+{
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	padding-bottom: 400px;
+}
+#searchBars
+{
+	padding-bottom: 100px;
+}
